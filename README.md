@@ -39,3 +39,7 @@ URL with invalid order ID:
 URL: http://127.0.0.1/rushit-c/api/v1/token/113328592302739/order/1200
 status: 201
 msg: Invalid OrderID. 
+
+
+
+NOTE: 127.0.0.1 should/can be replaced with your IP address or localhost
