@@ -1,7 +1,7 @@
 ############## htaccess by Rushit, for API ##############
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule ^api/v1/token/([^/]*)/order/([^/]*)$ /rushit-c/RestFul/?token=$1&order=$2 [L]
+RewriteRule ^api/v1/token/([^/]*)/order/([^/]*)$ /rushit-c/RESTful/?token=$1&order=$2 [L]
 </IfModule>
 ############## htaccess by Rushit, for API ##############
 
