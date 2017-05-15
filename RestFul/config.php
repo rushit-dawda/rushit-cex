@@ -29,3 +29,8 @@ class DB_con{
         return true; 
     }
 }
+
+function prstyle($data){
+    echo '<pre>'; 
+    print_r($data); 
+}
