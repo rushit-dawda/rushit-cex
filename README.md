@@ -10,7 +10,7 @@ CMS Admin & Frontend Part:
 		<dbname><![CDATA[rushit-cex]]></dbname>
 4) Once the above steps are setup check the url (http://127.0.0.1/rushit-c/) ( rushit-c = the folder name where the code is copied) 
 5) You can place a COD order from front using the above URL. 
-6) Admin path will be http://localhost/rushit-c/admin (username: admin / password: admin@123)
+6) Admin path will be http://127.0.0.1/rushit-c/admin (username: admin / password: admin@123)
 7) In the admin you can add the product / category. Currently I have added the 3 categories mentioned in the mail with 2 products in each. Under the manage product section you can add the new product in case you want. 
 
 RESTful API service:
